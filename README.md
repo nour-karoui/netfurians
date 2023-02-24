@@ -16,7 +16,7 @@ The project is divided into 2 main sections:
 To interact with the Nefture app
 ```shell
     cd nefture-front
-    npm start
+    npm install && npm start
     cd backend
-    npm start
+    npm install && npm start
 ```
